@@ -5,4 +5,4 @@ Xamarin.Forms 4.8 introduced the Xamarin.Forms Brushes that contain LinearGradie
 You can watch the video here ➤ https://youtu.be/ejDwwc1Iq1s
 
 
-![alt text](https://devcrux.com/wp-content/uploads/...) 
+![alt text](https://github.com/devcrux/Xamarin.Forms-Brushes-Animated-Gradient-Background/blob/master/AnimatedGradientGif.gif) 
